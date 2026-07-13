@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
