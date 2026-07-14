@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
