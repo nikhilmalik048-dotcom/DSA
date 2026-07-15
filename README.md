@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 ## Counting
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
