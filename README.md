@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 ## Counting
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
