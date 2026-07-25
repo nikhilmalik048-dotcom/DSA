@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
