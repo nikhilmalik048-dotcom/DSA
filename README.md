@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Linked List
 |  |
@@ -132,4 +134,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
