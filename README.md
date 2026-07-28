@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
