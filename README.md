@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -177,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
