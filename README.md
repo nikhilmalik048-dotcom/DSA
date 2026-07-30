@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
+| [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
@@ -182,8 +183,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
