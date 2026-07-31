@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0401-binary-watch) |
