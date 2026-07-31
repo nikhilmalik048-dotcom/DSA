@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0134-gas-station) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0100-same-tree) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
