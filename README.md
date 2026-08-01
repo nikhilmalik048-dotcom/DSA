@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
