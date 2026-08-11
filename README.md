@@ -239,5 +239,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
