@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
 | [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 ## Greedy
 |  |
@@ -241,8 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
