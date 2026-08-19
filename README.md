@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1598-crawler-log-folder) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1598-crawler-log-folder) |
 ## Design
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -271,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
