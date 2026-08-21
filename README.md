@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Memoization
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
