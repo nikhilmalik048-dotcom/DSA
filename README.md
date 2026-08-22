@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0394-decode-string) |
 | [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
