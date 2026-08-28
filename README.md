@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1598-crawler-log-folder) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0901-online-stock-span) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1544-make-the-string-great) |
