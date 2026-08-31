@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1598-crawler-log-folder) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 ## Simulation
 |  |
