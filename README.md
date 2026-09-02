@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 ## Simulation
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
