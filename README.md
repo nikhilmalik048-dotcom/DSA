@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
