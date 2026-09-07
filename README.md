@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0649-dota2-senate) |
 | [0784-letter-case-permutation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0929-unique-email-addresses) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0134-gas-station) |
+| [0649-dota2-senate](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0649-dota2-senate) |
 ## Hash Table
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
