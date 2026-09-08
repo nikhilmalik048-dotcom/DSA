@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Recursion
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Doubly-Linked List
@@ -335,4 +338,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
