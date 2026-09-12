@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0724-find-pivot-index) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0542-01-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0101-symmetric-tree) |
+| [0542-01-matrix](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0542-01-matrix) |
 ## Math
 |  |
 | ------- |
