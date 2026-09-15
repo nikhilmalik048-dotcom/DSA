@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1306-jump-game-iii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1306-jump-game-iii) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1472-design-browser-history) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0101-symmetric-tree) |
+| [1306-jump-game-iii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0101-symmetric-tree) |
 | [0542-01-matrix](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/0542-01-matrix) |
+| [1306-jump-game-iii](https://github.com/nikhilmalik048-dotcom/DSA/tree/master/1306-jump-game-iii) |
 ## Math
 |  |
 | ------- |
