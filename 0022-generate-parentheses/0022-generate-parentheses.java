@@ -1,31 +1,25 @@
 class Solution {
-
     public List<String> generateParenthesis(int n) {
-
-        List<String> ans = new ArrayList<>();
-
-        backtrack("", 0, 0, n, ans);
-
-        return ans;
+        List<String> result = new ArrayList<>();
+        backtrack(result, "", 0, 0, n);
+        return result;
     }
 
-    private void backtrack(String curr,
-                           int open,
-                           int close,
-                           int n,
-                           List<String> ans) {
+    void backtrack(List<String> result, String s, int open, int close, int n) {
 
-        if (curr.length() == 2 * n) {
-            ans.add(curr);
+        if (s.length() == 2 * n) {
+            result.add(s);
             return;
         }
 
+        // Add '(' if available
         if (open < n) {
-            backtrack(curr + "(", open + 1, close, n, ans);
+            backtrack(result, s + "(", open + 1, close, n);
         }
 
+        // Add ')' only when it is valid
         if (close < open) {
-            backtrack(curr + ")", open, close + 1, n, ans);
+            backtrack(result, s + ")", open, close + 1, n);
         }
     }
 }
